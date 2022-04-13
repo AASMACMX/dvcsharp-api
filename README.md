@@ -8,6 +8,8 @@
 docker-compose up
 ```
 
+test
+
 ### Manual
 
 Install .NET Core 2.x SDK
